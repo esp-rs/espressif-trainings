@@ -20,9 +20,9 @@ debug     = true # Symbols are nice and they don't increase the size on Flash
 opt-level = "z"
 
 [dependencies]
-anyhow       = "=1.0.86"
+anyhow       = "=1.0.95"
 embedded-hal = "=0.2.7"
-esp-idf-svc  = "=0.49.0"
+esp-idf-svc  = "=0.50.1"
 
 [build-dependencies]
-embuild = "=0.32.0"
+embuild = "=0.33.0"

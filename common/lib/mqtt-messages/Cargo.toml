@@ -8,4 +8,4 @@ authors = [
 edition = "2021"
 
 [dependencies]
-rgb = "=0.8.40"
+rgb = "=0.8.50"

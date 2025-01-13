@@ -6,7 +6,7 @@
   // "build": {
   //   "dockerfile": "Dockerfile",
   //   "args": {
-  //     "NIGHTLY_VERSION": "nightly-2024-06-30"
+  //     "NIGHTLY_VERSION": "nightly-2025-01-01"
   //   }
   // },
   "customizations": {

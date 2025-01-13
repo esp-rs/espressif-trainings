@@ -5,12 +5,12 @@ edition = "2021"
 authors = ["Sergio Gasquez <sergio.gasquez@gmail.com>"]
 
 [dependencies]
-anyhow      = "=1.0.86"
-esp-idf-svc = "=0.49.0"
+anyhow      = "=1.0.95"
+esp-idf-svc = "=0.50.1"
 log         = "=0.4.22"
 
 [build-dependencies]
-embuild = "=0.32.0"
+embuild = "=0.33.0"
 
 [dev-dependencies]
 toml-cfg = "=0.1.3"

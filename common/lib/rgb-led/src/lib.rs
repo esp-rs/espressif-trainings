@@ -1,6 +1,6 @@
 use anyhow::Result;
 use core::time::Duration;
-use esp_idf_svc::hal::{
+use esp_idf_hal::{
     gpio::OutputPin,
     peripheral::Peripheral,
     rmt::{config::TransmitConfig, FixedLengthSignal, PinState, Pulse, RmtChannel, TxRmtDriver},
